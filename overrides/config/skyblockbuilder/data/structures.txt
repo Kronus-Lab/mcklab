@@ -1,21 +1,12 @@
 minecraft:ancient_city
-minecolonies:asian_colony
 minecraft:bastion_remnant
 minecraft:buried_treasure
-minecolonies:caledonia_colony
 minecraft:desert_pyramid
-minecolonies:desertoasis_colony
 minecraft:end_city
 minecraft:fortress
 minecraft:igloo
-minecolonies:incan_colony
 minecraft:jungle_pyramid
-minecolonies:lostmesacity_colony
 minecraft:mansion
-minecolonies:medieval_birch_colony
-minecolonies:medieval_dark_oak_colony
-minecolonies:medieval_oak_colony
-minecolonies:medieval_spruce_colony
 ae2:meteorite
 minecraft:mineshaft
 minecraft:mineshaft_mesa
@@ -33,7 +24,6 @@ minecraft:ruined_portal_ocean
 minecraft:ruined_portal_swamp
 minecraft:shipwreck
 minecraft:shipwreck_beached
-minecolonies:shire_colony
 minecraft:stronghold
 minecraft:swamp_hut
 minecraft:village_desert
@@ -41,5 +31,3 @@ minecraft:village_plains
 minecraft:village_savanna
 minecraft:village_snowy
 minecraft:village_taiga
-minecolonies:warpednetherlands_colony
-supplementaries:way_sign
